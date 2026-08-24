@@ -1,0 +1,9 @@
+.git
+.gitignore
+.env
+.data
+.pytest_cache
+__pycache__
+*.py[cod]
+web/node_modules
+web/.next
