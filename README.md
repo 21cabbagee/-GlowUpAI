@@ -1,5 +1,10 @@
 # 🌟 GlowUp AI - Your Personal Skin Transformation Journey
 
+> **Active development has moved to [piyushxpc7/Skinproof](https://github.com/piyushxpc7/Skinproof)**,
+> which now contains both a more complete Android app and the backend, in one
+> repo. This repo (`-GlowUpAI`) is kept for history but is no longer where new
+> work happens. (Aug 30, 2026)
+
 > **AI-powered skincare tracking that shows real results**
 
 GlowUp AI is a mobile app that helps you achieve your skin goals through daily selfie tracking, AI-powered skin analysis, and beautiful progress visualization.
